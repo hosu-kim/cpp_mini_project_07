@@ -1,5 +1,6 @@
 /*
 This exercise is about learning the `template <typename T> keyword`
+By using it, you don't need to inplement dedicated functions for every type.
 */
 
 #ifndef WHATEVER_HPP
